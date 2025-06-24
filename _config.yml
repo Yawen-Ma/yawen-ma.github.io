@@ -22,7 +22,7 @@ repository               : "Yawen-Ma/yawen-ma.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "myprofile.jpeg"
+  avatar           : "myprofile.png"
   name             : "Yawen Ma"
   pronouns         : # example: "she/her"  
   bio              : "Final-year PhD candidate in statistis at Lancaster University, actively seeking postdoc and research fellow opportunities."
