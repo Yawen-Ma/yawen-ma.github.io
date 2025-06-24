@@ -18,7 +18,7 @@ I bring a strong foundation in **mathematics and statistics**, with particular e
 - **Unsupervised Learning**
 - **Cluster Analysis**
 - **Latent Variable Models**
-- Working with **large, complex, and unstructured datasets**
+- **Large, Complex, and Unstructured Datasets**
 
 I am also actively engaged in **open science** and reproducible research. My code and papers are available on [GitHub Pages](https://github.com/Yawen-Ma) and [Google Scholar](https://scholar.google.com/citations?user=APmyVrQAAAAJ&hl=en). 
 
