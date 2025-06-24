@@ -14,7 +14,7 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Teaching and Mentoring"
     url: /teaching/    
         
  # - title: "Blog Posts"
@@ -23,5 +23,5 @@ main:
   - title: "CV"
     url: /assets/files/CV_YawenMa.pdf
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+ #   url: /markdown/
