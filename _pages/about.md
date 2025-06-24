@@ -17,6 +17,6 @@ I bring a strong foundation in **mathematics and statistics**, with particular e
 - **Longitudinal analysis** and **learning analytics**
 - Working with **large, complex, and unstructured datasets**
 
-I am also actively engaged in **open science** and reproducible research. My code and papers are available on [GitHub Pages](https://Yawen-Ma.github.com/) and [my GitHub profile](https://github.com/Yawen-Ma). 
+I am also actively engaged in **open science** and reproducible research. My code and papers are available on [GitHub Pages](https://github.com/Yawen-Ma) and [my GitHub profile](https://scholar.google.com/citations?user=APmyVrQAAAAJ&hl=en). 
 
 You can find my cv here [CV_YawenMa](../assets/CV_YawenMa.pdf).
