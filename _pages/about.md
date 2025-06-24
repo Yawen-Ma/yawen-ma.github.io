@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD candidate in **Applied Statistics** at the [Centre for Health Informatics, Computing and Statistics (CHICAS)](https://www.lancaster.ac.uk/chicas/) at **Lancaster University**. I'm a self-motivated researcher in **applied statistics** with a strong foundation in **mathematics** and **statistics** applied to a **real-world application** (**education research**). My current focus is on advancing methodological innovations in areas of **quantitative psychology** and **literacy**. Through close collaboration with industrial partner [Amplify](https://amplify.com/) (U.S. based educational technology company), I have developed state of the art expertise in utilisation of **large, complex and unstructured datasets** complemented by strong skills in engagement and knowledge exchange.
+I am a final-year PhD candidate in **Applied Statistics** at the [Centre for Health Informatics, Computing and Statistics (CHICAS)](https://www.lancaster.ac.uk/chicas/) at **Lancaster University**. I am supervised by Dr. [Anastasia Ushakova](https://anastasiaushakova.com), Prof. [Kate Cain](https://www.lancaster.ac.uk/psychology/about-us/people/kate-cain) and Dr. [Gabriel Wallin](https://gabrieltwallin.github.io).
+
+I'm a self-motivated researcher in **applied statistics** with a strong foundation in **mathematics** and **statistics** applied to a **real-world application** (**education research**). My current focus is on advancing methodological innovations in areas of **quantitative psychology** and **literacy**. Through close collaboration with industrial partner [Amplify](https://amplify.com/) (U.S. based educational technology company), I have developed state of the art expertise in utilisation of **large, complex and unstructured datasets** complemented by strong skills in engagement and knowledge exchange.
 
 I bring a strong foundation in **mathematics and statistics**, with particular expertise in:
 - **Longitudinal methods**
