@@ -1,8 +1,9 @@
 ---
 title: "Measuring learners’ proficiency: Insights into adaptive digital educational environments"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-measuring-learners-proficiency
-date: 2024-02-01
+date: 2025-03-01
 venue: 'In submission'
 paperurl: 'https://osf.io/gu73j'
 citation: 'Ma, Y., Cain, K., & Ushakova, A. (2024). <i>Measuring learners’ proficiency: Insights into adaptive digital educational environments</i>. Manuscript submitted for publication. Preregistration: https://osf.io/gu73j'
