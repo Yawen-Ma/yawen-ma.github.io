@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Application of cluster analysis to identify different reader groups through their engagement with a digital reading supplement"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/2024-cluster-analysis-reader-groups
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2024-06
+venue: 'Computers & Education'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://doi.org/10.1016/j.compedu.2024.105025'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Ma, Y., Cain, K., & Ushakova, A. (2024). <i>Application of cluster analysis to identify different reader groups through their engagement with a digital reading supplement</i>. <i>Computers & Education</i>, 214, 105025. https://doi.org/10.1016/j.compedu.2024.105025'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper advances literacy field by introducing a novel approach to analyse, structure and classify information from raw log files that sourced from digital reading apps. The key aim of the digital app is to enhance young learners’ reading skills and provide individualised reccomendations. Our analyses provided an innovative analytical and Cluster Analysis framework to guide researchers in navigating this novel and complex dataset to achieve this aim.
