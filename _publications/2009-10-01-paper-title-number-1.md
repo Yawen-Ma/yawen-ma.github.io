@@ -1,6 +1,7 @@
 ---
 title: "Application of cluster analysis to identify different reader groups through their engagement with a digital reading supplement"
 collection: publications
+category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2024-06-01
 venue: 'Computers & Education'
