@@ -17,6 +17,6 @@ I bring a strong foundation in **mathematics and statistics**, with particular e
 - **Longitudinal analysis** and **learning analytics**
 - Working with **large, complex, and unstructured datasets**
 
-I am also actively engaged in **open science** and reproducible research. My code and papers are available on [GitHub Pages](https://pages.github.com/) and [my GitHub profile](https://github.com/Yawen-Ma).
+I am also actively engaged in **open science** and reproducible research. My code and papers are available on [GitHub Pages](https://Yawen-Ma.github.com/) and [my GitHub profile](https://github.com/Yawen-Ma). 
 
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+You can find my cv here [CV_YawenMa](../assets/CV_YawenMa.pdf).
