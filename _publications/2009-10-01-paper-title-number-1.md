@@ -2,7 +2,6 @@
 title: "Application of cluster analysis to identify different reader groups through their engagement with a digital reading supplement"
 collection: publications
 permalink: /publication/2024-cluster-analysis-reader-groups
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-06-01
 venue: 'Computers & Education'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
