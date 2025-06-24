@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My detailed [CV](/assets/YawenMa_CV.pdf) is here. Updated June/2025.
+My detailed [CV](/assets/CV_YawenMa.pdf) is here. Updated June/2025.
 
 Education
 ======
