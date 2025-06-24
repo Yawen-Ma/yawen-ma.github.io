@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Co-Supervision on MSc Health Data Science"
 collection: teaching
-type: "Workshop"
+type: "Mentoring"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Lancaster University, Lancaster Medical School"
+date: 2023-06-01
+location: "Lancaster, United Kingdom"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Co-supervision on MSc Health Data Science (with Dr Ushakova and Prof Cain).
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Preparation and organisation of the datasets for the student, clarification of the structure and facilitation of a smooth data analysis of complex data.
+- Provision of assistance to the students in identifying relevant research areas and literature for the project.
+- Holding weekly meetings with the student.
+- Supporting final write up.
