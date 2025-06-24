@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-7508-5385"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # 
   researchgate     : # URL
   scopus           : # URL
 
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://uk.linkedin.com/in/yawen-ma-01b015296"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
