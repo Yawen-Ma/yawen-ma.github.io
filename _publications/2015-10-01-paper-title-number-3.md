@@ -2,7 +2,7 @@
 title: "A statistical framework for dynamic cognitive diagnosis in digital learning environments"
 collection: publications
 permalink: /publication/2024-cognitive-diagnosis-framework
-date: 2025-06
+date: 2025-06-01
 venue: 'Journal of the Royal Statistical Society: Series A (under review)'
 paperurl: 'https://arxiv.org/abs/2506.14531'
 citation: 'Ma, Y., Cain, K., Ushakova, A., & Wallin, G. (2024). <i>A statistical framework for dynamic cognitive diagnosis in digital learning environments</i>. Manuscript under peer review. Preregistration: https://osf.io/nqkub'
