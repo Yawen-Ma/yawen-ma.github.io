@@ -1,7 +1,7 @@
 ---
 title: "Measuring learners’ proficiency: Insights into adaptive digital educational environments"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2024-measuring-learners-proficiency
 date: 2025-03-01
 venue: 'In submission'
