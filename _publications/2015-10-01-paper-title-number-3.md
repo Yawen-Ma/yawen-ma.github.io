@@ -1,7 +1,7 @@
 ---
 title: "A statistical framework for dynamic cognitive diagnosis in digital learning environments"
 collection: publications
-category: manuscripts
+category: in submission
 permalink: /publication/2024-cognitive-diagnosis-framework
 date: 2025-06-01
 venue: 'Journal of the Royal Statistical Society: Series A (under review)'
