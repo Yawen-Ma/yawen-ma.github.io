@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Maths and Stats Tutor (2022-2025)"
 collection: teaching
-type: "Undergraduate course"
+type: "Workshop/1-1s"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Lancaster University, Faculty of Sciences and Technology/Faculty of Health and Medicine"
+date: 2022-09-01
+location: "Lancaster, United Kingdom"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Leading of the workshop in multiple statistics topics for undergraduate students across the university (field ranging from social sciences to mathematics), enhancing student stats skills.
+- Provision of personalized mentoring in one-to-one sessions for undergraduate and postgraduate students, addressing students’ specific challenges in various mathematical and statistical areas.
+- Feedback from students (average score = 4.5 or 5/5)
